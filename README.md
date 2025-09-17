@@ -43,7 +43,7 @@ Quick-Mart/
 │-- README.md
 ⚡ Getting Started
 1. Clone the repository
-git clone https://github.com/your-username/quick-mart.git
+git clone (https://github.com/Aditya2004804/QuickMart)
 cd quick-mart
 2. Install dependencies
 For backend:
@@ -73,9 +73,8 @@ npm run dev
 Now open 👉 http://localhost:5173 in your browser.
 
 📸 Screenshots 
-
+<img width="1856" height="798" alt="Screenshot 2025-09-17 175047" src="https://github.com/user-attachments/assets/8808644c-c3db-4f9b-add9-a5d86e853db5" />
 <img width="1851" height="889" alt="Screenshot 2025-09-17 175101" src="https://github.com/user-attachments/assets/491bc082-aefb-4395-8c04-4d971d7dd692" />
-<img width="1795" height="852" alt="Screenshot 2025-09-17 175114" src="https://github.com/user-attachments/assets/f7824bfb-11de-44ee-9bd3-7d2aaa5ab3be" />
 <img width="1795" height="852" alt="Screenshot 2025-09-17 175114" src="https://github.com/user-attachments/assets/faab3d0d-cef9-4ec1-a20b-3367934b1ca7" />
 
 🏠 Homepage
